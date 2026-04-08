@@ -286,17 +286,4 @@ http://localhost:8000/docs
 
 ---
 
-## 📌 Conclusion
 
-This project demonstrates how to integrate:
-
-* **LLMs + Vector Search + Web Data**
-  to build a **real-world AI application** that adapts dynamically based on available information.
-
----
-
-If you want, I can also:
-
-* Convert this into **resume bullet points**
-* Create a **short 1-minute pitch**
-* Or generate **GitHub badges + project structure**
